@@ -5,7 +5,7 @@ metadata:
   namespace: argocd
 spec:
   source:
-    repoURL: https://github.com/<repo>
+    repoURL: https://github.com/ArehoneM/expert-octo-guide
     targetRevision: main
     path: example/path
     ###

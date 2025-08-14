@@ -6,7 +6,7 @@ metadata:
 spec:
   project: endor
   source:
-    repoURL: https://github.com/<repo>
+    repoURL: https://github.com/ArehoneM/expert-octo-guide
     targetRevision: main
     path: impersonation/manifests/
   destination:

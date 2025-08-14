@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<repo>
+    repoURL: https://github.com/ArehoneM/expert-octo-guide
     targetRevision: main
     path: kustomize/env/overlays/dev/
   destination:
